@@ -1,16 +1,47 @@
 # Resume
 
-This repo contains resume templates. These are simple resume templates built using Google Docs. 
-- Easy to customize and use.
+This repo contains resume templates built using Google Docs. 
+- These are easy to customize and use.
 - Simple: no need to learn LaTeX (LaTeX is great, but takes initial time investment).
 - Access anywhere. Stored in Goole Docs ☁. 
 
 **Note:** While opening on phone, use print layout to see how it's going to look. Still Mobile view might have issues, so view on Desktop/Laptop or use `Desktop View` in mobile browser. Also see tips section  
-Start/Watch the repo for updates
+*Remember to Star/Watch the repo for updates !!*
 
----
-### Available Templates  
+<br>
 
+## How To
+
+### Use the templates 
+To use the templates, make a copy of any given template by following the below steps:
+- Click to open one of the template links
+- In the opened google doc, click on "*File->Make a Copy*"
+- Edit your copy
+
+To create more sections with same formatting, copy and paste any existing section (header + separator line + content/bullets).
+
+### Download as PDF
+Prefer sending a PDF file instead of sharing a link to the google doc or sending it in doc format since formatting might look very different on viewers system.
+
+To convert go to "*File->Download->PDF*"
+
+
+### Change the theme color  
+- For each component having colors, select -> right click -> Edit -> Make changes 
+  or check the video
+- Suggested colors
+
+|   | Code  |
+|---|-------|
+| $\color{#EA4E4E}{⬤}$  |   #EA4E4E |
+| $\color{#4A86E8}{⬤}$  |   #4A86E8 |
+| $\color{#19a15f}{⬤}$  |   #19a15f |
+| $\color{#460094}{⬤}$  |   #460094 |
+
+<br>
+<br>
+
+# Available Templates  
 **One Page Templates**  
 |  |  |
 |--|--|
@@ -30,30 +61,6 @@ Start/Watch the repo for updates
 
 
 ---
-### How to
-
-**Use**  
-Convert to PDF (Prefer doing this before sending your CV to anyone) 
-- File->Download->PDF
-
-Create a Copy of the tempate
-- Open one of the template links
-- File->Make a Copy
-- Edit your copy
-
-- To create more sections with same formatting, copy and paste any existing section (header + separator line + content/bullets).
-
-**Change the theme color**  
-- For each component having colors, select -> right click -> Edit -> Make changes 
-  or check the video
-- Suggested colors
-
-|   | Code  |
-|---|-------|
-| $\color{#EA4E4E}{⬤}$  |   #EA4E4E |
-| $\color{#4A86E8}{⬤}$  |   #4A86E8 |
-| $\color{#19a15f}{⬤}$  |   #19a15f |
-| $\color{#460094}{⬤}$  |   #460094 |
 
 
 ### Have some suggestions
