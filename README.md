@@ -2,7 +2,7 @@
 
 This repo contains resume templates built using Google Docs. 
 - These are easy to customize and use.
-- Simple: no need to learn LaTeX (LaTeX is great, but takes initial time investment).
+- Simple: no need to learn LaTeX (LaTeX is great, but takes initial time investment). 
 - Access anywhere. Stored in Goole Docs ☁. 
 
 **Note:** While opening on phone, use print layout to see how it's going to look. Still Mobile view might have issues, so view on Desktop/Laptop or use `Desktop View` in mobile browser. Also see tips section  
